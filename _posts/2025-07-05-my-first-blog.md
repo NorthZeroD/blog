@@ -1,6 +1,11 @@
 ---
 layout: post
 title:  "测试"
+categories: [测试]
+tags: [测试, 第一篇博客]
+pin: true
+math: true
+mermaid: true
 ---
 
 ## 你好
