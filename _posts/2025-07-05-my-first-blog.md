@@ -3,7 +3,7 @@ layout: post
 title:  "测试"
 categories: [测试]
 tags: [测试, 第一篇博客]
-pin: true
+pin: false
 math: true
 mermaid: true
 ---
