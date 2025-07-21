@@ -10,7 +10,7 @@ mermaid: true
 
 ## 你好
 
-**Hello world**，这是我第一篇 Jekyll Do 博客文章 :D
+**Hello world**，这是我第一篇 Jekyll Do 博客文章 :D ...
 
 ![头像](/assets/img/favicons/android-chrome-192x192.png)
 
