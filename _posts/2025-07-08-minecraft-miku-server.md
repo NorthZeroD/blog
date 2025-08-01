@@ -36,6 +36,7 @@ mermaid: true
 - [Spark](https://spark.lucko.me/)
 - [NoChatReports](https://www.spigotmc.org/resources/nochatreports-spigot-paper-1-19-1-21-7.102931/)
 - [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
+- [AllMusic](https://www.mcmod.cn/class/14959.html)
 - [MikuServerPlugin](https://github.com/NorthZeroD/MikuServerPlugin)
 
 ## 加入服务器
