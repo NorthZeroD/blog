@@ -35,6 +35,8 @@ mermaid: true
 - [LuckPerms](https://luckperms.net/)
 - [Spark](https://spark.lucko.me/)
 - [NoChatReports](https://www.spigotmc.org/resources/nochatreports-spigot-paper-1-19-1-21-7.102931/)
+- [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
+- [MikuServerPlugin](https://github.com/NorthZeroD/MikuServerPlugin)
 
 ## 加入服务器
 
@@ -69,7 +71,7 @@ mermaid: true
    - B. 幻术师
    - C. 幻翼
    - D. 流浪者
-4. 在Java版中, 木斧的攻击伤害为
+4. 在**Java版**中, 木斧的攻击伤害为
    - A. 4
    - B. 5
    - C. 6
@@ -82,7 +84,7 @@ mermaid: true
 
 ### 填空题
 
-1. 在没有状态效果的一般情况下, 马可能的最大速度为_____格/秒.
+1. 在没有状态效果的一般情况下, 马可能的最大速度为_____格/秒(非斜向速度).
 2. 可以将游戏规则_______________设置为false来停止游戏内昼夜更替.
 3. **新版Minecraft Wiki**的网址是_________________.
 
