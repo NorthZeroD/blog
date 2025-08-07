@@ -12,7 +12,7 @@ mermaid: true
 ## 关于
 
 因为一个人玩有些无趣, 所以我搭建了这个MC服务器 :D
-<br>这是一个使用Purpur服务端的插件服, 未添加任何游戏性插件, 旨提供**纯净**的**原版**玩法~
+<br>这是一个使用**Leaf**服务端的插件服, 增加了一点点不Vanilla的小改动, 但依旧保持**原版**的玩法和**纯净**的风格!
 <br>如果你也🔥热爱♥️原版, 并且喜欢**建筑 冒险 养老**, 想要体验**休闲**的游戏生活, 那就赶快[加入我们](#加入服务器)吧! OvO
 
 ## 详情
@@ -24,7 +24,7 @@ mermaid: true
   : **兼容 1.21.7 客户端**
 
 ### 服务端
-- [Purpur](https://purpurmc.org/)
+- [Leaf](https://www.leafmc.one/)
   : **插件服**, Paper分支
 
 ### 验证模式
@@ -32,12 +32,22 @@ mermaid: true
 - **白名单**
 
 ### 使用插件
-- [LuckPerms](https://luckperms.net/)
-- [Spark](https://spark.lucko.me/)
-- [NoChatReports](https://www.spigotmc.org/resources/nochatreports-spigot-paper-1-19-1-21-7.102931/)
-- [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
 - [AllMusic](https://www.mcmod.cn/class/14959.html)
+  : 点歌🎤🎵
+- [UnlimitAnvil](https://www.spigotmc.org/resources/unlimit-anvil-no-too-expensive-any-more.112128/)
+  : 去除铁砧过于昂贵🚫💰
+- [NoChatReports](https://www.spigotmc.org/resources/nochatreports-spigot-paper-1-19-1-21-7.102931/)
+  : 禁用聊天举报🆓🗣
+- [LuckPerms](https://luckperms.net/)
+  : 权限管理
+- [Spark](https://spark.lucko.me/)
+  : 性能监测
+- [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
+  : 回档管理
 - [MikuServerPlugin](https://github.com/NorthZeroD/MikuServerPlugin)
+  : MikuServer中一些功能所用的插件
+- [PlayerInfoLogger](https://github.com/NorthZeroD/PlayerInfoLogger)
+  : 记录玩家进入服务器的时间
 
 ## 加入服务器
 
@@ -85,7 +95,7 @@ mermaid: true
 
 ### 填空题
 
-1. 在没有状态效果的一般情况下, 马可能的最大速度为_____格/秒(非斜向速度).
+1. 在没有状态效果的一般情况下, 马可能的最大速度为_____格/秒(**非斜向速度**).
 2. 可以将游戏规则_______________设置为false来停止游戏内昼夜更替.
 3. **新版Minecraft Wiki**的网址是_________________.
 
